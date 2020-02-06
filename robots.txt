@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooceihaequ.oxbowventures.com/sitemap.xml
